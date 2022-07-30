@@ -4,7 +4,7 @@ from tkinter import N
 
 
 num = int(input("Enter a Number : "))
-
+29
 if num<0:
     print("Please Input positive number ..")
 else:
